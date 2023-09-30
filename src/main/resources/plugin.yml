@@ -1,0 +1,5 @@
+name: ProximaCore
+version: '${project.version}'
+main: net.terurion.core.ProximaCore
+api-version: 1.17
+authors: [ TeranityDev ]

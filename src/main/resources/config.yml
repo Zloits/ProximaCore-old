@@ -1,0 +1,25 @@
+Server:
+  DefaultName: s1
+  ID: 517
+
+SQL:
+  Host: localhost
+  Port: 3306
+  Database: SpaceAPI
+  User: root
+  Pass: ""
+  UseSSL: false
+
+Remove-TabCompleter:
+  - bukkit:pl
+  - bukkit:plugins
+
+Modules:
+  JoinMessage: true
+  DefaultChat: true
+  TrollCommands: true
+
+  GuildCommands: false
+  FriendCommands: false
+
+  LobbyProtection: false
